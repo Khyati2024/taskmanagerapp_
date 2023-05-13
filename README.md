@@ -2,7 +2,7 @@
       <img src="https://user-images.githubusercontent.com/59374587/92790175-ecf48500-f381-11ea-8311-6d6e8f10cf8f.png" width="130px" alt="https://stories.freepik.com/work Illustration by Freepik Stories"/>
    </p>
 
-   <h1 align="center">ToDo</h1>
+   <h1 align="center">Taskmanager</h1>
 
    <h2 align="center">Topics 📋</h2>
 
@@ -20,8 +20,8 @@
    <h2 align="center">About 📖</h2>
    
    <p align="center">   
-      A simple ToDo app made with Flutter 💙.<br>
-      With this app you can make your ToDos and organize them. You can add them, delete them (with option to undo later), and view them so that you see the ones that are pending first, and below the completed ones. It is a simple application, but it can be very useful when it comes to your organization. 😃
+      A simple Taskmanager app made with Flutter 💙.<br>
+      With this app you can make your Task manager and organize them. You can add them, delete them (with option to undo later), and view them so that you see the ones that are pending first, and below the completed ones. It is a simple application, but it can be very useful when it comes to your organization. 😃
       This application is in version 1.1.
    </p>
 
@@ -29,11 +29,7 @@
 
    <h2 align="center">Preview 📱</h2><br>
 
-   <p align="center">
-   <img src="demos/version1.1.gif" width="400">
-   </p>
 
-   > * You can see all version previews in [`demos`](https://github.com/felipecastrosales/ToDo/tree/master/demos) folder. 🧐📂
 
 ---
 
@@ -48,11 +44,10 @@
    <h2 align="center">How to Use 🤔</h2>
 
    ```   
-   - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/ToDo ToDo
+   
 
    - Enter in directory:
-   $ cd ToDo
+   $ cd Taskmanager
 
    - For install dependencies:
    $ flutter packages get
@@ -80,9 +75,6 @@
 
 ---
 
-   <h2 align="center">License 📝</h2>
-
-   This repository is under MIT license. You can see the [LICENSE](https://github.com/felipecastrosales/ToDo/blob/master/LICENSE) file for more details. 😉
 
    ---
 
@@ -91,8 +83,4 @@
 
 ---
 
-   <div align="center">
-
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
-
-   </div>
+   
